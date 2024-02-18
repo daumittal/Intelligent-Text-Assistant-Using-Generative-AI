@@ -1,1 +1,1 @@
-# Itelligent-Text-Assistant-Using-Generative-AI
+# Intelligent-Text-Assistant-Using-Generative-AI
